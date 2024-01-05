@@ -1,0 +1,3 @@
+﻿  connect 4.cpp
+E:\c++ profisinal\connect 4\connect 4\connect 4.cpp(183,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  connect 4.vcxproj -> E:\c++ profisinal\connect 4\x64\Debug\connect 4.exe
